@@ -1,6 +1,10 @@
-# Obsidian Sample Plugin
+# Obsidian PDF Annotator
 
-This is a sample plugin for Obsidian (https://obsidian.md).
+This is a plugin for Obsidian (https://obsidian.md).
+It replaces the native PDF reader with PDF.js and pdfAnnotate
+
+
+
 
 This project uses Typescript to provide type checking and documentation.
 The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
